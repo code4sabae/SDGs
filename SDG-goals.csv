@@ -1,18 +1,18 @@
-"goal","description"
-"1","End poverty in all its forms everywhere"
-"2","End hunger, achieve food security and improved nutrition and promote sustainable agriculture"
-"3","Ensure healthy lives and promote well-being for all at all ages"
-"4","Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all"
-"5","Achieve gender equality and empower all women and girls"
-"6","Ensure availability and sustainable management of water and sanitation for all"
-"7","Ensure access to affordable, reliable, sustainable and modern energy for all"
-"8","Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all"
-"9","Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation"
-"10","Reduce inequality within and among countries"
-"11","Make cities and human settlements inclusive, safe, resilient and sustainable"
-"12","Ensure sustainable consumption and production patterns"
-"13","Take urgent action to combat climate change and its impacts"
-"14","Conserve and sustainably use the oceans, seas and marine resources for sustainable development"
-"15","Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss"
-"16","Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels"
-"17","Strengthen the means of implementation and revitalize the global partnership for sustainable development"
+﻿goal,title,description,logo,title_ja,description_ja,logo_ja
+1,No Poverty,End poverty in all its forms everywhere,logos/en/E-WEB-Goal-01.png,貧困をなくそう,あらゆる場所で、あらゆる形態の貧困に終止符を打つ,logos/ja/sdg_icon_01_ja_2.png
+2,Zero Hunger,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture",logos/en/E-WEB-Goal-02.png,飢餓をゼロ,飢餓に終止符を打ち、食料の安定確保と栄誉状態の改善を達成するとともに、持続可能な農業を推進する,logos/ja/sdg_icon_02_ja_2.png
+3,Good Health and Well-being,Ensure healthy lives and promote well-being for all at all ages,logos/en/E-WEB-Goal-03.png,すべての人に健康と福祉を,あらゆる延齢のすべての人々の健康的な生活を確保し、福祉を推進する,logos/ja/sdg_icon_03_ja_2.png
+4,Quality Education,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,logos/en/E-WEB-Goal-04.png,質の高い教育をみんなに,すべての人々に包摂的かつ公平で質の高い教育を提供し、生涯学習の機会を促進する,logos/ja/sdg_icon_04_ja_2.png
+5,Gender Equality,Achieve gender equality and empower all women and girls,logos/en/E-WEB-Goal-05.png,ジェンダー平等を実現しよう,ジェンダーの平等を達成し、すべての女性と女児のエンパワーメントを図る,logos/ja/sdg_icon_05_ja_2.png
+6,Clean Water and Sanitation,Ensure availability and sustainable management of water and sanitation for all,logos/en/E-WEB-Goal-06.png,安全な水とトイレを世界中に,すべての人に水と衛生へのアクセスと持続可能な管理を確保する,logos/ja/sdg_icon_06_ja_2.png
+7,Affordable and Clean Energy,"Ensure access to affordable, reliable, sustainable and modern energy for all",logos/en/E-WEB-Goal-07.png,エネルギーをみんなに そしてクリーンに,すべての人々に手ごろで信頼でき、持続可能かつ近代的なエネルギーへのアクセスを確保する,logos/ja/sdg_icon_07_ja_2.png
+8,Decent Work and Economic Growth,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",logos/en/E-WEB-Goal-08.png,働きがいも経済成長も,すべての人のために持続的、包摂的かつ持続可能な経済成長、生産的な完全雇用およびディーセント・ワーク（働きがいのある人間らしい仕事）を推進する,logos/ja/sdg_icon_08_ja_2.png
+9,"Industry, Innovation and Infrastructure","Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",logos/en/E-WEB-Goal-09.png,農業と技術革新の基盤をつくろう,強靭なインフラを整備し、包摂的で持続可能な産業化を推進するとともに、技術革新の拡大を図る,logos/ja/sdg_icon_09_ja_2.png
+10,Reduced Inequalities,Reduce inequality within and among countries,logos/en/E-WEB-Goal-10.png,人や国の不平等をなくそう,国内および国家間の格差を是正する,logos/ja/sdg_icon_10_ja_2.png
+11,Sustainable Cities and Communities,"Make cities and human settlements inclusive, safe, resilient and sustainable",logos/en/E-WEB-Goal-11.png,住み続けられるまちづくりを,都市と人間の居住地を包摂的、安全、強靭かつ持続可能にする,logos/ja/sdg_icon_11_ja_2.png
+12,Responsible Consumption and Production,Ensure sustainable consumption and production patterns,logos/en/E-WEB-Goal-12.png,つくる責任 つかう責任,持続可能な消費と生産のパターンを確保する,logos/ja/sdg_icon_12_ja_2.png
+13,Climate Action,Take urgent action to combat climate change and its impacts,logos/en/E-WEB-Goal-13.png,気候変動に具体的な対策を,気候変動とその影響に立ち向かうため、緊急対策を取る,logos/ja/sdg_icon_13_ja_2.png
+14,Life Below Water,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development",logos/en/E-WEB-Goal-14.png,海の豊かさを守ろう,海洋と海洋資源を持続可能な開発に向けて保全し、持続可能な形で利用する,logos/ja/sdg_icon_14_ja_2.png
+15,Life on Land,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss",logos/en/E-WEB-Goal-15.png,陸の豊かさも守ろう,陸上生態系の保護、回復および持続可能な利用の推進、森林の持続可能な管理、砂漠化への対処、土地劣化の阻止および逆転、ならびに生物多様性損失の阻止を図る,logos/ja/sdg_icon_15_ja_2.png
+16,"Peace, Justice and Strong Institutions","Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",logos/en/E-WEB-Goal-16.png,平和と公正をすべての人に,持続可能な開発に向けて平和で包摂的な社会を推進し、すべての人に司法へのアクセスを提供するとともに、あらゆるレベルにおいて効果的で責任ある包摂的な制度を構築する,logos/ja/sdg_icon_16_ja_2.png
+17,Partnerships for the Goals,Strengthen the means of implementation and revitalize the global partnership for sustainable development,logos/en/E-WEB-Goal-17.png,パートナーシップで目標を達成しよう,持続可能な開発に向けて実施手段を強化し、グローバル・パートナーシップを活性化する,logos/ja/sdg_icon_17_ja_2.png
