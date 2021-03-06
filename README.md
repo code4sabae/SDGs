@@ -4,6 +4,22 @@
 使用ライセンスは、[SDGsのポスター・ロゴ・アイコンおよびガイドライン | 国連広報センター](https://www.unic.or.jp/activities/economic_social_development/sustainable_development/2030agenda/sdgs_logo/)をご参照ください。  
 (forked and added logos, titles and Japanese)  
 
+## 使い方 How to use
+
+```HTML
+<script type="module">
+import { CSV } from "https://code4sabae.github.io/js/CSV.js";
+
+window.onload = async () => {
+    const baseurl = "https://code4sabae.github.io/SDGs_ja/";
+    const goals = CSV.toJSON(await CSV.fetch(baseurl + "SDG-goals.csv"));
+    console.log(goals);
+    const targets = CSV.toJSON(await CSV.fetch(baseurl + "SDG-targets.csv"));
+    console.log(targets);
+};
+</script>
+```
+
 # Summary of key files in this repository
 
 - **[Goals, Target, and Indicators.xlsx](Goals, Target, and Indicators.xlsx):**  An Excel spreadsheets which contains codes and descriptions for each goal, target, and indicators of the SDGs (on separate tabs).
