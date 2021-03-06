@@ -1,8 +1,8 @@
 # SDGs 持続可能な揮発目標 17の目標と169のターゲット
 
 [https://github.com/datapopalliance/SDGs/](https://github.com/datapopalliance/SDGs/) をフォークし、ロゴと日本語を追加しました。
-使用ライセンスは、[SDGsのポスター・ロゴ・アイコンおよびガイドライン | 国連広報センター](https://www.unic.or.jp/activities/economic_social_development/sustainable_development/2030agenda/sdgs_logo/)をご参照ください。
-
+使用ライセンスは、[SDGsのポスター・ロゴ・アイコンおよびガイドライン | 国連広報センター](https://www.unic.or.jp/activities/economic_social_development/sustainable_development/2030agenda/sdgs_logo/)をご参照ください。  
+(forked and added logos, titles and Japanese)  
 
 # Summary of key files in this repository
 
